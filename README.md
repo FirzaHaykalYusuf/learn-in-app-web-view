@@ -2,6 +2,9 @@
 
 A new Flutter project.
 
+Simple Code inAppWebView Flutter pub.dev - Setup for mobile app
+Set to Online-Offline Web View
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
